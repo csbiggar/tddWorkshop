@@ -45,3 +45,10 @@ Thumbs.db
 .metadata
 *.iml
 *.ipr
+
+target
+target/*
+
+# Gedit temp files #
+####################
+*~
